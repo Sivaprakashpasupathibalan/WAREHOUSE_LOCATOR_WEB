@@ -15,7 +15,7 @@
         <br />
         <form runat="server">
             <asp:Label Text="UserName" CssClass="lblname" runat="server" />
-            <asp:TextBox runat="server" CssClass="txtname" placeholder="Enter Username" />
+            <asp:TextBox runat="server" CssClass="txtname" placeholder="Enter name" />
             <asp:Label Text="Password" CssClass="lblpass" runat="server" />
             <asp:TextBox runat="server" CssClass="txtpass" placeholder="***********" type="password"/>
             <br />
